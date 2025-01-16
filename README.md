@@ -12,7 +12,7 @@ Install necessary packages:
   ```
   pip install -r requirements.txt
   ```
-<strong>(optional)</strong> If you want to use functionality of the player (opening wider range of media file types), 
+<strong>(optional)</strong> If you want to use full functionality of the player (opening wider range of media file types), 
 you will need 
 additional Codec software. I've been testing the application with - <a href="https://codecguide.com/download_k-lite_codec_pack_standard.htm">K-Lite Codec</a>.<br>
 <br>
